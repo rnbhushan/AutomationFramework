@@ -1,0 +1,6 @@
+We will puhsh our code into the repository (Git/Bitbucket)
+
+Jenkins -- repo
+
+
+jenkins --- pom.xml-- TestNg.xml --- Scripting -- Mai functionality - Page Object Model
